@@ -59,9 +59,9 @@ Mark:
 
 https://lesmorales1221.wixsite.com/my-site-1
 
-mock img 1.png
-mock img 2.png
-mock img 3.png
+assets\images\mock img 1.png
+assets\images\mock img 1.png
+assets\images\mock img 1.png
 
 ##### \* created with wix
 
@@ -91,3 +91,4 @@ Build upon previous projects and hone our new Web Development skills.
 ---
 
 ##### MADE BY:
+Sam, Leslie, Joe, Mark
