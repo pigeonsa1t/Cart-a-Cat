@@ -59,10 +59,6 @@ Mark:
 
 https://lesmorales1221.wixsite.com/my-site-1
 
-assets\images\mock img 1.png
-assets\images\mock img 1.png
-assets\images\mock img 1.png
-
 ##### \* created with wix
 
 #### Motivation for development:
