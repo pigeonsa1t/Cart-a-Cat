@@ -6,8 +6,6 @@
 
 #### A New Way To Find Our Future Cat!
 
-Deployment:  https://pigeonsa1t.github.io/Cart-a-Cat/
-
 #### As a user,
 I want to see a list of cats and kittens...
 
@@ -67,7 +65,9 @@ User story: I want to be able to browse a website for my favorite cats. I want t
 
 ## Final Look:
 
-!!!*********************
+Deployment:  https://pigeonsa1t.github.io/Cart-a-Cat/
+
+*** need image/video here
 
 ### Technologies used:
 - Wix
