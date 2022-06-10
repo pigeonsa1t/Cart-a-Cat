@@ -20,38 +20,33 @@ I can select a cat and save it to my cart.
 
 ### Breakdown of Tasks and Roles:
 
-
 Sam:
 
 - Original idea
 - Created GitHub repository
 - Designed ReadME
 
-
 Joe:
 
-- 
-- 
-- 
+-
+-
+-
 
 Leslie:
 
 - Mock-Up design
 - HTML/CSS design
-- 
+-
 
 Mark:
 
-- 
-- 
-- 
+-
+-
+-
 
 ### Challenges:
 
-
-
 ### Successes:
-
 
 ---
 
@@ -69,22 +64,14 @@ Build upon previous projects and hone our new Web Development skills.
 
 #### Description:
 
-
-
 ---
 
 ## Final Look:
 
-
-
-
-## 
+##
 
 ### Technologies used:
-
-
 
 ---
 
 ##### MADE BY:
-Sam, Leslie, Joe, Mark
