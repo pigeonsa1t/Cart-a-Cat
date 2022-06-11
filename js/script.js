@@ -2,34 +2,41 @@
 
 // const catImages = [
 //   {
-//     title: 'Cat',
-//     path: 'images/cat.png',
-//     width: 50,
-//     height: 50,
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
-//     // img: 'images/cat.png',
+//     title: 'cat',
+//     name: '',
+//     path: '',
+//     breed: '',
+//     sex: ''
+//   },
 
-// we need an array of kitten images to display for the user 
+//   {
+//     title: 'cat 2',
+//     name: '',
+//     path: '',
+//     breed: '',
+//     sex: ''
+//   },
+// ]
+
+// we need an array of kitten images to display for the user
 
 // const kittenImages = [
 //   {
-//     title: 'Kitten',
-//     path: 'images/kitten.png',
+//     title: 'kitten 1',
+//     name: '',
+//     path: '',
+//     breed: '',
+//     sex: ''
+//   },
 
-
+//   {
+//     title: 'kitten 2',
+//     name: '',
+//     path: '',
+//     breed: '',
+//     sex: ''
+//   },
+// ]
 
 // we need a function to allow the user to login
 
@@ -39,8 +46,7 @@
 //   // const password = 'admin';
 //   // const email = 'admin@admin.com';
 
-
-// we need a function for the cart 
+// we need a function for the cart
 
 // const cart = (cart) => {
 //   // cart
@@ -53,5 +59,4 @@
 //          type: ''
 //   //     quantity: '1',
 
-
-// we need a cat page and a kitten page 
+// we need a cat page and a kitten page
