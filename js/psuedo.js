@@ -1,10 +1,13 @@
+var commandLineArgs = process.argv;
+console.log(commandLineArgs);
+
 // we need an array of cat images to display for the user
 
 // const catImages = [
 //   {
 //     title: 'cat',
 //     name: '',
-//    
+//
 //     breed: '',
 //     sex: ''
 //   },
