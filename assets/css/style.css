@@ -36,3 +36,14 @@ html{
     justify-content: space-between;
     padding: 2rem 9%;
 }
+
+.logo{
+    color:var(--lavander);
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+.logo i{
+    padding-right: .5rem;
+    color: var(--lavander);
+} 
