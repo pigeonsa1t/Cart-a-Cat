@@ -136,10 +136,7 @@ html{
 
 
     html{
-        font-size: 62.5%;
-        overflow-x:hidden;
-        scroll-padding-top: 6.5rem;
-        scroll-behavior: smooth;
+        font-size: 55%;
     }
-    
+
 }
