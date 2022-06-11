@@ -105,3 +105,7 @@ html{
     color: var(--black);
     padding-left: 1rem;
 }
+
+.header-2 .icons a:hover{
+    color: var(--lavander);
+}
