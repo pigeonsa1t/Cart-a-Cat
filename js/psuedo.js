@@ -4,7 +4,7 @@
 //   {
 //     title: 'cat',
 //     name: '',
-//     path: '',
+//    
 //     breed: '',
 //     sex: ''
 //   },
@@ -12,7 +12,6 @@
 //   {
 //     title: 'cat 2',
 //     name: '',
-//     path: '',
 //     breed: '',
 //     sex: ''
 //   },
@@ -24,7 +23,6 @@
 //   {
 //     title: 'kitten 1',
 //     name: '',
-//     path: '',
 //     breed: '',
 //     sex: ''
 //   },
@@ -32,7 +30,6 @@
 //   {
 //     title: 'kitten 2',
 //     name: '',
-//     path: '',
 //     breed: '',
 //     sex: ''
 //   },
@@ -46,17 +43,10 @@
 //   // const password = 'admin';
 //   // const email = 'admin@admin.com';
 
-// we need a function for the cart
+// we need a variable for the cart to store the cats/kittens the user selected
 
-// const cart = (cart) => {
-//   // cart
-//   // const cart = [
-
-//   //   {
-//   //     id: kitten-1,
-//   //     name: 'Jane',
-//          img: 'images/kitten.png',
-//          type: ''
-//   //     quantity: '1',
-
-// we need a cat page and a kitten page
+// const cart = {
+//   title: '',
+//   name: '
+//   breed: '',
+//   sex: '',
