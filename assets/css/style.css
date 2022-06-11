@@ -148,5 +148,23 @@ html{
     padding: 2rem;
 }
 
-
 } 
+
+@media(max-width:768px){
+    #menu-bar{
+        display: initial;
+    }
+    .header-2 .navbar{
+        position:absolute;
+        top:100%; left:0; right:0;
+        background:var(--black);
+        padding: 1rem 0;
+    }
+    .header-2 .navbar a{
+        font-size: 2.5rem;
+        display: block;
+        background: #fff;
+        padding: 1rem;
+        margin:1.5rem 0;
+    }
+}
