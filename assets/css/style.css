@@ -99,3 +99,9 @@ html{
     background: var(--lavander);
     color: #fff;
 }
+
+.header-2 .icons a{
+    font-size: 2.5rem;
+    color: var(--black);
+    padding-left: 1rem;
+}
