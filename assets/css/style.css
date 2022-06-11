@@ -140,3 +140,13 @@ html{
     }
 
 }
+
+@media(max-width:991px){
+
+.header-1,
+.header-2{
+    padding: 2rem;
+}
+
+
+} 
