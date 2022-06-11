@@ -47,3 +47,18 @@ html{
     padding-right: .5rem;
     color: var(--lavander);
 } 
+
+.header-1 .search-box-container{
+    display: flex;
+    height: 5rem;
+}
+
+.header-1 .search-box-container #search-box{
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+    font-size: 2rem;
+    color: #333;
+    border: rgba(0, 0, 0, .3);
+
+}
