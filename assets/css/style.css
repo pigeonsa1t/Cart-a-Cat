@@ -73,3 +73,17 @@ html{
     text-align: center;
     cursor: pointer;
 }
+
+.header-1 .search-box-container label:hover{
+    background: var(--darklavander);
+}
+
+.header-2{
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 9%;
+    box-shadow: 0.5rem 1rem rgb(0,0,.1);
+    position: relative;
+}
