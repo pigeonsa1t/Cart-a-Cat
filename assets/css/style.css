@@ -168,3 +168,23 @@ html{
         margin:1.5rem 0;
     }
 }
+
+@media(max-width:450px){
+
+    html{
+        font-size: 50%;
+    }
+    .header-1{
+        flex-flow: column;
+    }
+    .header-1 .search-box-container{
+        width: 100%;
+        margin-top: 2rem;
+
+    }
+
+    .logo{
+        font-size: 4rem;
+    }
+
+}
