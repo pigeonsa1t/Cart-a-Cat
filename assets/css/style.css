@@ -29,6 +29,25 @@ html{
     scroll-behavior: smooth;
 }
 
+section{
+    padding: 2rem 9%;
+}
+
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    background: var(--lavander);
+    color: #fff;
+    padding: .8rem 3rem;
+    font-size: 1.7rem;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: var(--darklavander);
+}
+
 .header-1{
     background: #eee;
     display: flex;
@@ -88,6 +107,12 @@ html{
     position: relative;
 }
 
+.header-2.active{
+    position:fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 10000;
+}
+
 .header-2 .navbar a{
     padding:.5rem 1.5rem;
     font-size: 2rem;
@@ -120,12 +145,30 @@ html{
     display: none;
 }
 
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
+.home .image{
+    flex: 1 1 40rem;
+}
 
+.home .image img{
+    width: 100%;
+    padding-top: 5rem;
+}
 
+.home .content{
+    flex: 1 1 40rem;
+}
 
-
-
+.home .content h3{
+    font-size: 5rem;
+    color: var(--black);
+}
 
 
 
@@ -148,5 +191,61 @@ html{
     padding: 2rem;
 }
 
+section{
+    padding: 2rem;
+}
 
 } 
+
+@media(max-width:768px){
+    #menu-bar{
+        display: initial;
+    }
+    .header-2 .navbar{
+        position:absolute;
+        top:100%; left:0; right:0;
+        background:var(--black);
+        padding: 1rem 2rem;
+        display: none;
+    }
+
+    .header-2 .navbar.active{
+        display: initial; 
+    }
+    .header-2 .navbar a{
+        font-size: 2.5rem;
+        display: block;
+        text-align: center;
+        background: #fff;
+        padding: 1rem;
+        margin:1.5rem 0;
+    }
+
+    .home .content{
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4rem;
+    }
+}
+
+@media(max-width:450px){
+
+    html{
+        font-size: 50%;
+    }
+    .header-1{
+        flex-flow: column;
+    }
+    .header-1 .search-box-container{
+        width: 100%;
+        margin-top: 2rem;
+
+    }
+
+    .logo{
+        font-size: 4rem;
+    }
+
+}
