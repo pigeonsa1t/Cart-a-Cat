@@ -32,8 +32,11 @@ Joe: N/A
 
 ---
 
-Challenges: 2/4 group members dropped out without contributing during the final week of the project
-Successes: Leslie and Sam were able to get the front end put together before the rest of the group left, and are working hard to get this up and running ASAP!
+- Challenges: 
+2/4 group members dropped out without contributing during the final week of the project
+
+- Successes: 
+Leslie and Sam were able to get the front end put together before the rest of the group left, and are working hard to get this up and running ASAP!
 
 ---
 
