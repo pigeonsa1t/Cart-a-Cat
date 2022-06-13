@@ -137,18 +137,23 @@ section{
     flex-wrap: wrap;
 }
 
-.home.image{
+.home .image{
     flex: 1 1 40rem;
 }
 
-.home.image img{
+.home .image img{
     width: 100%;
+    padding-top: 5rem;
 }
 
-.home.content{
+.home .content{
     flex: 1 1 40rem;
 }
 
+.home .content h3{
+    font-size: 5rem;
+    color: var(--black);
+}
 
 
 
