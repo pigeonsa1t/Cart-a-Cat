@@ -1,42 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cart A Cat</title>
 
-
     <!-- font awesome cdn link -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
     <!-- custom css file link -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+
 </head>
+
 <body>
-    
+    <!-- the start of the header section -->
 
-<!-- the start of the header section -->
+    <header>
+        <div class="header-1">
+            <a href="#" class="logo"><i class="fa-solid fa-paw"></i>Cart A Cat</a>
 
-<header>
+            <form action="" class="search-box-container">
+                <input type="search" id="search-box" placeholder="search here ..." />
+                <label for="search-box" class="fas fa-search"></label>
+            </form>
+        </div>
 
-<div class="header-1">
-<a href="#" class="logo"><i class="fa-solid fa-paw"></i>Cart A Cat</a>
+        <div class="header-2">
+            <div id="menu-bar" class="fas fa-bars"></div>
 
-<form action="" class="search-box-container">
-<input type="search" id= "search-box" placeholder="search here ...">
-<label for="search-box" class="fas fa-search"></label>
-    </form>
+            <nav class="navbar">
+                <a href="#home">home</a>
+                <a href="#cats">Cats</a>
+                <a href="#kittens">kittens</a>
+                <a href="#contact">Contact</a>
+            </nav>
 
-</div>
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-user-circle"></a>
+            </div>
+        </div>
+    </header>
+
+    <!-- the end of header section -->
+
+    <!-- CAT COLLECTION: -->
+    <!-- width: 50,
+    height: 50,
+    img: 'images/cat.png',
+    img: 'images/cat.png',
+    img: 'images/cat.png',
 
 
-<div class="header-2">
+    <!-- kitten COLLECTION: -->
+    <!-- width: 50,
+    height: 50,
+    img: 'images/kitten.png',
+    img: 'images/kitten.png',
+    img: 'images/kitten.png',
+
+    <div id="menu-bar" class="fas fa-bars"></div>
 
     <nav class="navbar">
         <a href="#home">home</a>
         <a href="#cats">Cats</a>
-        <a href="#Kittens">Kittens</a>
+        <a href="#kittens">Kittens</a>
         <a href="#contact">Contact</a>
     </nav>
 
@@ -50,11 +84,37 @@
 
 </header>
 
-
-
-
-
 <!-- the end of header section -->
+
+
+
+<!-- the start of home section -->
+
+<section class="home" id="home">
+        <!-- home image -->
+<div class="image">
+    <img src="Website-images/Easter Maine Coon kittens on purple background.jpeg" alt="">
+</div>
+        <!-- home text -->
+<div class="content">
+    <h3>Welcome To Our Cat Shop</h3>
+    <a href="#" class="btn">Start Shopping</a>
+</div>
+    
+</section>
+
+<!-- the end of home section -->
+
+
+<!--- the start of banner -->
+
+<section class="banner-container">
+    <div class="banner"></div>
+</section>
+ 
+<!-- the end of banner -->
+
+
 
 
 
@@ -65,6 +125,7 @@
 
 
     <!-- custom js file link -->
-    <script src="js/script.js"></script>
+    <script src="script/script.js"></script>
 </body>
+
 </html>

@@ -21,12 +21,11 @@ Sam:
 - Created GitHub repository
 - Designed ReadME
 
-
 Joe:
 
-- 
-- 
-- 
+-
+-
+-
 
 Leslie:
 
@@ -40,6 +39,19 @@ Mark:
 - 
 - 
 - 
+- HTML/CSS design
+-
+
+Mark:
+
+-
+-
+-
+
+### Challenges:
+
+### Successes:
+
 ---
 
 ## Mock Up:
@@ -75,8 +87,10 @@ Deployment:  https://pigeonsa1t.github.io/Cart-a-Cat/
 - Node.js and Express.js
 - Handlebars.js 
 - MySQL
+##
+
+### Technologies used:
 
 ---
 
 ##### MADE BY:
-Sam, Leslie, Joe, Mark
