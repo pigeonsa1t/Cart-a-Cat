@@ -19,8 +19,6 @@ Sam:
 - Designed ReadME
 - Node.js
 
-Joe: N/A
-
 Leslie:
 
 - Mock-Up design
@@ -30,6 +28,7 @@ Leslie:
 - 
 
 Mark: N/A
+Joe: N/A
 
 ---
 
@@ -52,10 +51,10 @@ We wanted to build a simple and fun website to build upon previous projects and 
 
 #### Description:
 
-Description: Cart a Cat - Need a cat? Put it in a cart!
-Motivation for development? We want to be able to showcase simple website functionality and store user input.
-User story: I want to be able to browse a website for my favorite cats. I want to be able to select a cat and add it to my cart. I should be able to view my cart later and see my cat.
+Cart a Cat - Need a cat? Put it in a cart!
+We want to be able to showcase simple website functionality and store user input. 
 
+I want to be able to browse a website for my favorite cats. I want to be able to select a cat and add it to my cart. I want to be able to view my cart later and see my cat.
 
 ---
 
