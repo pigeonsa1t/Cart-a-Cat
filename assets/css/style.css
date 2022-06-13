@@ -29,6 +29,10 @@ html{
     scroll-behavior: smooth;
 }
 
+section{
+    padding: 2rem 9%;
+}
+
 .header-1{
     background: #eee;
     display: flex;
@@ -128,13 +132,6 @@ html{
 
 
 
-
-
-
-
-body{
-    height: 200rem;
-}
 
 
 
