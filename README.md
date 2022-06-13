@@ -6,11 +6,8 @@
 
 #### A New Way To Find Our Future Cat!
 
-#### As a user,
-I want to see a list of cats and kittens...
-
-#### So that...
-I can select a cat and save it to my cart.
+As a user: I want to see a list of cats and kittens...
+So that I can select my favorite cats and save them to my cart.
 
 ---
 
