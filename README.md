@@ -31,9 +31,10 @@ Leslie:
 
 Mark: N/A
 
-### Challenges: 2/4 group members dropped out without contributing during the final week of the project
+---
 
-### Successes: Leslie and Sam were able to get the front end put together before the rest of the group left, and are working hard to get this up and running ASAP!
+Challenges: 2/4 group members dropped out without contributing during the final week of the project
+Successes: Leslie and Sam were able to get the front end put together before the rest of the group left, and are working hard to get this up and running ASAP!
 
 ---
 
@@ -45,7 +46,7 @@ https://lesmorales1221.wixsite.com/my-site-1
 
 #### Motivation for development:
 
-Build upon previous projects and hone our new Web Development skills.
+We wanted to build a simple and fun website to build upon previous projects and hone our new Web Development skills.
 
 ---
 
@@ -67,6 +68,7 @@ Deployment:  https://pigeonsa1t.github.io/Cart-a-Cat/
 ### Technologies used:
 - Wix
 - Github
+- Materialize
 - Node.js and Express.js
 - Handlebars.js 
 - MySQL
