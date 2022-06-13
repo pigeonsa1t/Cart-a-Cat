@@ -22,7 +22,7 @@ Sam:
 - Designed ReadME
 - Node.js
 
-Joe:
+Joe: N/A
 
 Leslie:
 
@@ -32,11 +32,11 @@ Leslie:
 - Style Sheet
 - 
 
-Mark:
+Mark: N/A
 
-### Challenges:
+### Challenges: 2/4 group members dropped out without contributing during the final week of the project
 
-### Successes:
+### Successes: Leslie and Sam were able to get the front end put together before the rest of the group left, and are working hard to get this up and running ASAP!
 
 ---
 
@@ -76,4 +76,4 @@ Deployment:  https://pigeonsa1t.github.io/Cart-a-Cat/
 
 ##### MADE BY:
 
-Sam, Leslie
+Sam (pigeonsa1t) / Leslie (Lesmorales1221)
