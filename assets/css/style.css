@@ -88,6 +88,12 @@ html{
     position: relative;
 }
 
+.header-2.active{
+    position:fixed;
+    top: 0; left: 0; right: 0;
+
+}
+
 .header-2 .navbar a{
     padding:.5rem 1.5rem;
     font-size: 2rem;
