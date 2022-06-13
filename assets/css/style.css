@@ -33,6 +33,21 @@ section{
     padding: 2rem 9%;
 }
 
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    background: var(--lavander);
+    color: #fff;
+    padding: .8rem 3rem;
+    font-size: 1.7rem;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: var(--darklavander);
+}
+
 .header-1{
     background: #eee;
     display: flex;
