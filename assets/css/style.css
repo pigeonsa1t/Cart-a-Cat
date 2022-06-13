@@ -191,6 +191,10 @@ section{
     padding: 2rem;
 }
 
+section{
+    padding: 2rem;
+}
+
 } 
 
 @media(max-width:768px){
@@ -215,6 +219,14 @@ section{
         background: #fff;
         padding: 1rem;
         margin:1.5rem 0;
+    }
+
+    .home .content{
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4rem;
     }
 }
 
