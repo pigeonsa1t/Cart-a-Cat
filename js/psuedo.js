@@ -1,6 +1,11 @@
 var commandLineArgs = process.argv;
 console.log(commandLineArgs);
 
+var catCatalog = process.argv.slice(2, process.argv.length);
+console.log(catCatalog);
+
+var kittenCatalog = process.argv.slice(2, process.argv.length);
+console.log(kittenCatalog);
 // we need an array of cat images to display for the user
 
 // const catImages = [
