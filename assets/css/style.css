@@ -199,15 +199,17 @@ section{
 
 .banner-container .banner .content h3{
     font-size: 3rem;
-    color: var(--black);
+    color: var(--darklavander);
 }
 
 .banner-container .banner .content p{
     font-size: 2rem;
-    color: var(--black);
+    color: var(--darklavander);
 }
 
-
+.banner-container .banner:hover img{
+    transform:scale(1.2) rotate(-5deg);
+}
 
 /* media queries */
 @media(max-width:1200px){
