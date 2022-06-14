@@ -201,6 +201,14 @@ section{
     font-size: 3rem;
     color: var(--black);
 }
+
+.banner-container .banner .content p{
+    font-size: 2rem;
+    color: var(--black);
+}
+
+
+
 /* media queries */
 @media(max-width:1200px){
 
