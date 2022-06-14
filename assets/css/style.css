@@ -170,10 +170,37 @@ section{
     color: var(--black);
 }
 
+.banner-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.banner-container .banner{
+    flex: 1 1 40rem;
+    height: 48rem;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.banner-container .banner img{
+    height: 180%;
+    width: 85%;
+    object-fit: cover;
+}
 
 
+.banner-container .banner .content{
+    position: absolute;
+    top: 50%; left: 4%;
+    transform: translateY(-50%);
+}
 
-
+.banner-container .banner .content h3{
+    font-size: 3rem;
+    color: var(--black);
+}
 /* media queries */
 @media(max-width:1200px){
 
