@@ -2,6 +2,16 @@ const inquirer = require("inquirer");
 
 console.log(inquirer);
 
+inquirer
+  .prompt([
+    {
+      type: "",
+      name: "",
+      message: "",
+    },
+  ])
+  .then((answers) => console.log(answers));
+
 // const fs = require('fs');
 // const generatePage = require('./src/page-template');
 
