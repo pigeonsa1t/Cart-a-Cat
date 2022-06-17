@@ -17,7 +17,9 @@ Sam:
 - Original idea
 - Created GitHub repository
 - Designed ReadME
-- Node.js
+- Node.js Express.js
+- Handlebars.js 
+- MySQL
 
 Leslie:
 
@@ -25,18 +27,28 @@ Leslie:
 - HTML
 - CSS
 - Style Sheet
-- 
 
-Mark: N/A
-Joe: N/A
+Joe:
+
+- Handlebars.js 
+- MySQL
+
+
+
+Mark: ** N/A
 
 ---
 
-- Challenges: 
-2/4 group members dropped out without contributing during the final week of the project
+Challenges: 
+- 1/4 group members dropped out without contributing/informing us during the final week of the project
+- Scheduling! One member was unable to participate during the majority of the project due to personal commitments.
+- Technichal issues // Learning process: We are all still very new at this and are struggling ot get everything working
 
-- Successes: 
-Leslie and Sam were able to get the front end put together before the rest of the group left, and are working hard to get this up and running ASAP!
+Successes: 
+- Leslie and Sam were able to get the front end put together before the due date, and are working hard to get this up and running ASAP!
+- Joe was able to rejoin and help us finish up the project
+- Great presentation and class discussion
+- Fun design to show off our new skills
 
 ---
 
@@ -77,4 +89,4 @@ Deployment:  https://pigeonsa1t.github.io/Cart-a-Cat/
 
 ##### MADE BY:
 
-Sam (pigeonsa1t) / Leslie (Lesmorales1221)
+Sam (pigeonsa1t) / Leslie (Lesmorales1221) / Joe (josephmryan)
