@@ -77,7 +77,7 @@ I want to be able to browse a website for my favorite cats. I want to be able to
 
 Deployment:  https://pigeonsa1t.github.io/Cart-a-Cat/
 
-*** need image/video here
+![image](https://user-images.githubusercontent.com/100164686/174392508-d4a2b4ee-c3ca-4286-acac-3bf5e658b653.png)
 
 ### Technologies used:
 - Wix
